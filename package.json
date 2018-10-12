@@ -1,0 +1,27 @@
+{
+  "name": "node-cors",
+  "version": "1.0.0",
+  "description": "node 实现跨域资源共享（CORS）的案例",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwb1994/node-cors.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dwb1994/node-cors/issues"
+  },
+  "homepage": "https://github.com/dwb1994/node-cors#readme",
+  "engines": {
+    "node": ">=7.6.0"
+  },
+  "dependencies": {
+    "koa": "^2.5.3",
+    "koa-static": "^5.0.0"
+  }
+}
