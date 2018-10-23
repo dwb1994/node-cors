@@ -26,6 +26,7 @@
   },
   "devDependencies": {
     "ghooks": "^2.0.4",
+    "koa2-cors": "^2.0.6",
     "validate-commit-msg": "^2.14.0"
   },
   "config": {
